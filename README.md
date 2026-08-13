@@ -24,7 +24,7 @@ I'm a **B.Tech Computer Science graduate (2026)** passionate about **full-stack 
 * 🎓 B.Tech CSE Graduate (2026)
 * 💼 AI Intern at **Infosys Springboard**
 * 🌱 Currently mastering **React, Node.js, Express.js, MongoDB, and scalable backend development**
-* 🧠 Strong interest in **DSA, Machine Learning, and Software Engineering**
+* 🧠 Strong interest in **Data Structures & Algorithms, Machine Learning, and Software Engineering**
 * 📍 India
 
 ---
@@ -114,29 +114,36 @@ I'm a **B.Tech Computer Science graduate (2026)** passionate about **full-stack 
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Core Competencies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpandey4510-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandey4510-ui&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshpandey4510-ui&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpandey4510-ui&theme=tokyo-night&hide_border=true"/>
-</p>
+* **Full-Stack Web Development (MERN)**
+* **REST API Design & JWT Authentication**
+* **Real-Time Applications with Socket.io**
+* **Machine Learning & Deep Learning**
+* **Computer Vision & Image Analysis**
+* **Data Structures & Algorithms**
+* **Object-Oriented Programming**
+* **Version Control with Git & GitHub**
 
 ---
 
-## 🎯 Current Focus
+## 📚 Certifications & Learning
 
-* 🚀 Building production-ready **MERN applications**
-* 📚 Strengthening **Data Structures & Algorithms**
-* ⚙️ Learning **system design fundamentals**
-* 🤖 Exploring **Generative AI and backend scalability**
+* Data Science – AI & DSA
+* GFG 160 Days of DSA
+* DSA using Java (Infosys Springboard)
+* Artificial Intelligence (Infosys Springboard)
+* Google Cloud **Gen AI Study Jam**
+* GDSC **Android Compose Camp**
+
+---
+
+## 🚀 What I'm Working On
+
+* 🔧 Building production-ready **MERN applications**
+* 📈 Improving **DSA and problem-solving for SDE interviews**
+* ⚙️ Exploring **system design fundamentals**
+* 🤖 Learning **Generative AI and backend scalability**
 
 ---
 
@@ -151,7 +158,7 @@ I'm a **B.Tech Computer Science graduate (2026)** passionate about **full-stack 
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐ Thanks for visiting my profile!
 
 **"Build. Learn. Improve. Repeat."**
 
