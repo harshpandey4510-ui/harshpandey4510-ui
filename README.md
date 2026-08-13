@@ -149,7 +149,7 @@ I'm a **B.Tech Computer Science graduate (2026)** passionate about **full-stack 
 
 ## 📫 Let's Connect
 
-* 🌐 Portfolio: **https://harshpandey.netlify.app**
+* 🌐 Portfolio: **[https://harshpandey.netlify.app](https://chipper-youtiao-90e9bd.netlify.app/)**
 * 💼 LinkedIn: **https://www.linkedin.com/in/harsh-pandey-258547253/**
 * 📧 Email: **[harshpandey4510@gmail.com](mailto:harshpandey4510@gmail.com)**
 * 🐙 GitHub: **https://github.com/harshpandey4510-ui**
